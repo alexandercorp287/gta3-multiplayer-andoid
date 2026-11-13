@@ -1,0 +1,21 @@
+# Build artifacts
+obj/
+out/
+libs/
+*.o
+*.so
+*.a
+
+# Logs and dumps
+*.log
+*.txt.bak
+logcat*.txt
+
+# Editor
+.vscode/
+.idea/
+*.swp
+
+# Screenshots (temporary)
+shot*.png
+jni/shot*.png
